@@ -38,4 +38,4 @@ build/
 application.properties
 application.yml
 .pom.xml
-backend\src\main\resources
+backend/src/main/resources
