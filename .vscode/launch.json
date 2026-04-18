@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "BookStoreApplication (this repo)",
+      "request": "launch",
+      "mainClass": "com.book.BookStore.BookStoreApplication",
+      "projectName": "BookStore",
+      "cwd": "${workspaceFolder}/backend"
+    }
+  ]
+}
